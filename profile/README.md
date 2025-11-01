@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://oregonstate.edu">
-    <img src="https://oregonstate.edu/themes/custom/madrone_homepage/logo.svg" alt="Oregon State University Logo"/>
+    <img src="https://oregonstate.edu/themes/custom/madrone_homepage/logo.svg" alt="Oregon State University Logo" width=200 />
   </a>
 </p>
 
@@ -69,8 +69,7 @@ All software and materials in this organization are provided on an "as-is" basis
 
 If you have questions about the publication process, need assistance, or want to learn more, please reach out to:
 
--   **Email:** [`opensource-support@oregonstate.edu`](mailto:opensource-support@oregonstate.edu) (Please replace with the correct contact email)
--   **Internal Support Portal:** [Link to your IT Service Desk or Knowledge Base article]
+-   ** under construction ** 
 
 ---
 
