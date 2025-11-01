@@ -20,7 +20,7 @@ Our mission is to foster a culture of open collaboration, transparency, and inno
 
 ## 🤔 What is the "Safe Haven" Concept?
 
-The "safe haven" model is designed to simplify the process of publishing open-source work. Once your project is approved, you can transfer it to this organization, and our automated systems will handle the rest. This automation ensures that every project meets university standards for public release by:
+The "safe haven" model is designed to simplify the process of publishing open-source work. Once your project is approved, you can publish it in your own Github account or organization or you transfer it to this `osu-pub` organization, and our automated systems will handle the rest. This automation ensures that every project meets university standards for public release by:
 
 -   **Adding a Standard License:** Automatically applies an approved open-source license (e.g., MIT, Apache 2.0) to your repository.
 -   **Applying File Headers:** Inserts the appropriate OSU copyright and license headers into your source code files.
@@ -35,7 +35,7 @@ Ready to share your project with the world? The process is straightforward.
 ### Step 1: Get Approval
 **All code, configurations, and documentation must be approved for public release *before* being published here.** This step ensures that no sensitive, confidential, or proprietary information is accidentally exposed.
 
-➡️ **Start the approval process by [visiting the OSU Technology Transfer Office (TTO) portal](https://research.oregonstate.edu/tto/disclose-your-innovation) or contacting [your designated IT support group].** (Please replace this link with the correct internal URL).
+➡️ **Start the approval process by [visiting the Intellectual Property and Licensing Team at OSU Advantage](https://advantage.oregonstate.edu/ip-licensing/i-have-idea) and starting the conversation ** 
 
 ### Step 2: Prepare Your Repository
 While our automation handles the legal boilerplate, a great project starts with you! Before submitting for transfer, please ensure your repository includes:
