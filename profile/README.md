@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://oregonstate.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Oregon_State_University_logo.svg/1200px-Oregon_State_University_logo.svg.png" alt="Oregon State University Logo" width="200"/>
+    <img src="https://oregonstate.edu/themes/custom/madrone_homepage/logo.svg" alt="Oregon State University Logo"/>
   </a>
 </p>
 
